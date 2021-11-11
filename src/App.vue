@@ -98,6 +98,16 @@ export default {
           "name": "Temp",
           "status": "start"
         },
+        {
+          "slug": "002",
+          "name": "Temp",
+          "status": "start"
+        },
+        {
+          "slug": "003",
+          "name": "Temp",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
