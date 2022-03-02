@@ -98,6 +98,15 @@ export default {
           "name": "Contact",
           "status": "start"
         },
+      "mission_slug": "002",
+      "current_md": "",
+      "events": "",
+      "missions": [
+        {
+          "slug": "002",
+          "name": "...And a Hard Place",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
@@ -106,7 +115,7 @@ export default {
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Unknown"
+          "mech": "Isetta"
         },
         {
           "callsign": "Daro",
@@ -122,15 +131,15 @@ export default {
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Unknown"
+          "mech": "You Are Not Immune"
         },
       ],
       "header": {
-        "planet": "Terminus",
-        "year": "5002u",
-        "system": "Unknown",
-        "gate": "None",
-        "ring": "Annamite",
+        "planet": "Asteroid U426B8",
+        "year": "5016u",
+        "system": "Silar",
+        "gate": "Gasherbrum",
+        "ring": "Karakoram",
         "headerTitle": "Pirates",
         "headerSubtitle": "In The Making",
         "subheaderTitle": "Beginnings",
