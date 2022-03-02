@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
@@ -98,10 +98,6 @@ export default {
           "name": "Contact",
           "status": "start"
         },
-      "mission_slug": "002",
-      "current_md": "",
-      "events": "",
-      "missions": [
         {
           "slug": "002",
           "name": "...And a Hard Place",
